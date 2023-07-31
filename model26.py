@@ -22,3 +22,5 @@ if __name__ == "__main__":
             break
         response = chat_with_model(user_input)
         print("AI:", response)
+
+#at the end, model26 chatBot creates some random response.
